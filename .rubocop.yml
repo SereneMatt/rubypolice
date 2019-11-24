@@ -1,0 +1,6 @@
+AllCops:
+ Exclude:
+ — db/schema.rb
+ — db/migrate/**/*
+ — lib/tasks/**/*
+ - Gemfile
